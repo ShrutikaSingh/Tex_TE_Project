@@ -1,0 +1,5 @@
+{
+  "action_number": 32,
+  "seconds": 10,
+  "type": 0     //0 = ringtone, 1 = notification, 2 = alarm
+}

@@ -1,0 +1,8 @@
+{
+  "action_number": 2,
+  "title": "Abdul's Message",
+  "message": "My message",
+  "ticker": "Abdul is saying something",
+  "vibrate": "yes",
+  "sound": "yes"
+}

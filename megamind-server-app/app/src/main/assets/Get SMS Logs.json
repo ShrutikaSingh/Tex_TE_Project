@@ -1,0 +1,14 @@
+{
+  "action_number": 4,
+  "filter" : "all",
+  "number" : 6
+}
+
+/*
+filter:
+all
+inbox
+outbox
+sent
+draft
+*/

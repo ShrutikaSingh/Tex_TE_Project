@@ -1,0 +1,5 @@
+{
+  "action_number": 24,
+  "type": "ringtone",  // types are "ringtone", "alarm", "music", "notification"
+  "to": 10
+}

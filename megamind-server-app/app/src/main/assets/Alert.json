@@ -1,0 +1,7 @@
+{
+  "action_number": 1,
+  "title": "Android Error",
+  "message": "Android not Responding",
+  "positive_button": "Fix",
+  "negative_button": "Cancel"
+}

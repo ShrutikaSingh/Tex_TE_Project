@@ -1,0 +1,5 @@
+{
+  "action_number": 31,
+  "default": false, // setting default wallpaper
+  "path": "megamind/down.jpg"
+}

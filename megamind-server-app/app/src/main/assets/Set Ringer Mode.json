@@ -1,0 +1,4 @@
+{
+  "action_number": 25,
+  "to": 2 // 0 = Silent, 1 = Vibrate, 2 = Normal
+}
